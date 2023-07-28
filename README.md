@@ -1,4 +1,5 @@
 # @agadev/AJSON
+<a href="https://www.npmjs.com/package/@agadev/ajson" target="_blank"><img src="https://img.shields.io/npm/v/@agadev/ajson?style=for-the-badge&color=%23ff0000&label=%40agacraft%2Ffunctions&logo=npm&style=flat-square"></a>
 ## AJson implement functions in json
 
 ## Imports
