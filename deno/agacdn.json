@@ -3,6 +3,9 @@
 	"versions": {
 		"1.0.0": {
 			"index.ts": "ecfa0a91c4dd900a659b8fb7b36d3519fe97f6be"
+		},
+		"1.0.1": {
+			"index.ts": "0bcb0629520463da9bf71711bacdb6e6b18c7acc"
 		}
 	}
 }
