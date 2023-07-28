@@ -9,7 +9,7 @@ function convertFunctionToString(fn: Function){
   if (matchBlock) return `fn:${data}`;
 
   // (arg1, arg2) => { body }
-  const matchArrow = data.match(/\((.*)\)\s*=>\s*{([\s\S]*)}/);
+  const matchArrow = data.match(/\((.*)\)\s*=>\s*([\s\S]*)/);
   if (matchArrow) return `fn:${data}`;
   
   // name(arg1, arg2) { body }
